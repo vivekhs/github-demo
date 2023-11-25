@@ -1,0 +1,6 @@
+- git clone repoUrl
+- git log
+- git status
+- git add {filePath/fileName}
+- git commit -m "commit name"
+- git push origin main
